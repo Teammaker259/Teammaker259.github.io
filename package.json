@@ -1,6 +1,6 @@
 {
-  "homepage": "https://solex.github.io/myfootgame",
-  "name": "11-builder",
+  "homepage": "https://10259.github.io/football",
+  "name": "team-creato",
   "version": "0.1.0",
   "license": "CC BY-NC-ND 3.0",
   "private": true,
@@ -10,7 +10,8 @@
     "rasterizehtml": "^1.2.4",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "react-scripts": "1.0.17"
+    "react-scripts": "1.0.17",
+    "vue": "^3.3.7"
   },
   "devDependencies": {
     "cheerio": "^1.0.0-rc.2",
